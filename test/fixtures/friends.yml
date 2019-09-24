@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  visit_interval: 1
+  last_meetup: 2019-09-17 15:37:24
+  next_meetup: 2019-09-17 15:37:24
+
+two:
+  name: MyString
+  visit_interval: 1
+  last_meetup: 2019-09-17 15:37:24
+  next_meetup: 2019-09-17 15:37:24
