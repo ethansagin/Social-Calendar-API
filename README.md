@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to the React Social Calendar, your one-stop-shop for all of your social scheduling needs! This is Ethan Sagin's final project for the Flatiron Bootcamp, it was built using React/Redux as the front-end and a Ruby-on-Rails API backend.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run this application, you will need to fork and clone the Social-Calendar-Client (https://github.com/ethansagin/Social-Calendar-Client) as well as the repo for Soical-Calendar-API. Open two separate terminals, one for API and one for Client. Calling 'rails s' in the API's terminal to start the API on http://localhost:3001; calling npm start in the Client's terminal will start the client on http://localhost:3000. Open a web page to localhost:3000 and use the NavBar / buttons to explore the app!
